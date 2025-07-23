@@ -1,4 +1,4 @@
-﻿This project is an IoT-based smart manhole monitoring system using Raspberry Pi, DHT11, IR sensors, Tilt sensors, and Firebase for real-time alerts and monitoring. It also includes a web UI for viewing manhole status.
+﻿This project is an IoT-based smart manhole monitoring system using Raspberry Pi, DHT11, IR sensors, Tilt sensors, and Firebase for real-time alerts and monitoring. It also includes a UI for viewing manhole status.
 
 🔧 Hardware Components
 Raspberry Pi
@@ -59,21 +59,18 @@ Water level is high
 
 
 🔮 Future Enhancements
+
 ->Multi-Sensor Data Handling with Apache Kafka
 Integrate Apache Kafka to handle real-time data streams from multiple manhole sensors, enabling scalable and fault-tolerant data pipelines.
-
 
 ->LoRa Integration for Long-Range Communication
 Use LoRa modules to transmit sensor data from remote manholes without relying on Wi-Fi or mobile networks, allowing for deployment in rural or underground areas.
 
-
 ->Edge ML for Anomaly Detection
 Run lightweight machine learning models on Raspberry Pi to detect anomalies locally and reduce latency in alert systems.
 
-
 ->Mobile App Alerts
 Create an Android/iOS application to notify municipal workers of manhole cap breaches or flooding in real-time.
-
 
 ->GPS-Based Monitoring
 Add GPS modules to each sensor node to track manhole locations and movement for predictive maintenance.
