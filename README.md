@@ -121,25 +121,8 @@ firebase_admin.initialize_app(cred, {
 
 ---
 
-## 📜 License
-
-MIT License — feel free to use, modify, and improve this for your own city or university projects!
-
----
-
 ## ⭐️ Support
 
 If you like this project or found it useful, leave a ⭐️ on the repo and help spread the idea.
 
----
-
-
----
-
-### ✅ What You Can Do:
-- Save this into your `README.md` file.
-- Replace `"Your Name"` with your actual name.
-- Add any images in a folder called `images` and link them accordingly in the visuals section.
-
-Would you like me to convert this to a PDF or HTML landing page format next?
 ```
