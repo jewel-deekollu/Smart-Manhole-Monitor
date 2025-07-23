@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "123456789012",            /* ← Replace with your Firebase project number */
+    "firebase_url": "https://your-project.firebaseio.com", /* ← Replace with your Firebase DB URL */
+    "project_id": "your-project-id",             /* ← Replace with your Firebase Project ID */
+    "storage_bucket": "your-project.appspot.com" /* ← Replace with your Firebase Storage Bucket */
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:abcdef123456", /* ← Replace with actual App ID */
+        "android_client_info": {
+          "package_name": "com.example.app"       /* ← Replace with your Android package name */
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyEXAMPLE-KEY-123456789" /* ← Replace with actual API key */
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+    
+  ],
+  "configuration_version": "1"
+}
